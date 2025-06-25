@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Saurabh-code20
-- 👀 I’m interested in alot of things simce i hace just started and exploring many fields.
-- 🌱 I’m currently learning java 
-- 💞️ I’m looking to collaborate on with someone who has 
+- 👀 My interest is hovering around Machine learning and full stack web development 
+- 🌱 I’m currently learning python+html and css
+- 💞️ I mostly like to work alone 
 - 📫 How to reach me, you can reach me through linkedin profile www.linkedin.com/in/saurabh-sharma-06498a31b
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: the first "bug" of the computer was a bug.
